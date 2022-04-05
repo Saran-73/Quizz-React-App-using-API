@@ -26,6 +26,9 @@ Users should be able to: Quiz themselves and check for scores
 ### Screenshot
 
 ![](./screenshot.jpg)
+![quiz 1](https://user-images.githubusercontent.com/94773376/161709321-fdf8fd5a-44e5-4e91-81ef-18526a94e943.PNG)
+![quiz 2](https://user-images.githubusercontent.com/94773376/161709333-ae803065-109d-4d54-a2b8-e9c256991d25.PNG)
+![quiz 3](https://user-images.githubusercontent.com/94773376/161709336-195b2f82-d8f6-4004-9211-6b59ab9953f0.PNG)
 
 
 
