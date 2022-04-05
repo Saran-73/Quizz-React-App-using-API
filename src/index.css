@@ -1,0 +1,128 @@
+body{
+    margin:0;
+    background-color:#F5F7FB;
+    min-height:100vh;
+    display:grid;
+    justify-content: center;
+    align-items:center;
+    color: #293264;    
+    background-image:url("./image/blob-top.png"),url("./image/blob-bottom.png");
+    background-repeat:no-repeat;
+    background-position:right top,left bottom;
+}
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+.enter--button {
+    background-color: #4D5B9E;
+    border-radius: 15px;
+    border:0;
+    padding:1em;
+    width:12.05em;
+    color: #F5F7FB;
+    cursor:pointer;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+}
+.check--ans{
+    margin-top:1em;
+    background-color: #4D5B9E;
+    border-radius:10px;
+    width:fit-content;
+    padding:1em;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 10.24px;
+    color: #F5F7FB;
+    border:0;
+    cursor:pointer;    
+}
+
+.footer--marks{
+    display:flex;
+    justify-content: space-around;
+    align-items:center;
+    margin-top:1rem;
+    margin-bottom:1rem;    
+}
+.footer--marks p{
+    font-family: 'Inter';
+    font-style: normal;
+    color: #293264;
+    font-weight: 700;
+    font-size: 0.8rem;
+}
+.new--game{
+   background-color: #4D5B9E;
+    border-radius:10px;
+    width:fit-content;
+    padding:1em;
+    color: #F5F7FB;
+    border:0;
+    font-size: 0.7rem;
+    cursor:pointer;
+    font-weight: 600;
+}
+
+.enter--page{
+    width:210px;
+    text-align:center;
+    color: #293264;
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 1rem;
+    font-weight: 500;
+}
+.enter--page p{
+    font-weight: 400;
+}
+.enter--page h1{
+    font-family: 'Karla';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.95rem;
+}
+
+.questions{
+    margin:0.8em 2.5em;
+}
+.question--block{
+    font-family: 'Karla';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1rem;
+    line-height: 19px;
+    color: #293264;
+    border-bottom:0.794239px solid #DBDEF0;
+}
+.question--block h2{
+    font-weight: 700;
+    font-size: 1rem; 
+    line-height: 19px;
+}
+footer{
+    text-align: center;
+}
+.option{
+    width:fit-content;
+    box-sizing: border-box;
+    border-radius: 7.94239px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 0.7rem;
+    padding:0.5em 1em;
+    color: #293264;
+    margin-bottom:1rem;
+    margin-left:0.8rem;    
+}
+.option--btn{
+    margin-left:-0.8rem;
+}
+.option--btn :focus{
+    outline:none;
+}
