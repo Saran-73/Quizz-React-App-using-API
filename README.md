@@ -41,7 +41,6 @@ Users should be able to: Quiz themselves and check for scores
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
 - CSS Grid
 - Flexbox
 - [React](https://reactjs.org/) - JS library
