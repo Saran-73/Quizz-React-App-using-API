@@ -21,13 +21,15 @@ React app that users can use to quiz themselves.
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![quiz 2](https://user-images.githubusercontent.com/94773376/166235403-e7a2af4d-09e2-4bd9-b6e1-ec9300bea4ab.PNG)
+![quiz 3](https://user-images.githubusercontent.com/94773376/166235409-7e765231-176d-4ea1-8d6d-e3f4ce0d9dc1.PNG)
+![quiz 1](https://user-images.githubusercontent.com/94773376/166235412-3cd35d61-f836-4f94-b679-ee99c222d6af.PNG)
+
 
 
 ### Links
 
-- source code URL: []
-- live site URL: []
+- live site URL: [https://saran-73.github.io/Quizz-React-App-using-API/]
 
 ## My process
 - First created the file App.js that has state on which data fetched from an API is stored.
@@ -57,8 +59,7 @@ React app that users can use to quiz themselves.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Twitter - [@Saran840900481](https://www.twitter.com/yourusername)
 
 
 ## Acknowledgments
